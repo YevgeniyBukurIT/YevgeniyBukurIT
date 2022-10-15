@@ -1,4 +1,4 @@
-# Hi, I'm Yevgeniy Bukur 🖐️
+# Hi, I'm Yevhenii Bukur 🖐️
 
 ### ⚡ About myself:
 
