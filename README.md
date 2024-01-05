@@ -23,7 +23,6 @@ I study at the National Technical University of Ukraine “Igor Sikorsky Kyiv Po
 
 <img align="left"  width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left"  width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img align="left"  width="30px" src="https://simplebackups.com/static/f08109e937872b4f8322e13b1705b844/84ecb/simplebackups-mysql-ico.png" />
 <img align="left"  width="30px" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" />
 <img align="left"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 
